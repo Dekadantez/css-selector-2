@@ -11,7 +11,7 @@
     color: yellow;
 }
 
-.lesson-four-task-four .link:link {
+.lesson-four-task-four a:link {
     color: red;
 }
 
@@ -71,8 +71,8 @@
     background: red;
 }
 
-.lesson-four-task-sixteen input[type='number']:out-of-range {
-    background-color: red;
+.lesson-four-task-sixteen input:out-of-range {
+    color: red;
 }
 
 .lesson-four-task-seventeen input[type='number']:in-range {
